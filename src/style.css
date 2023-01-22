@@ -1,4 +1,4 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Explora&display=swap');
 
@@ -9,8 +9,8 @@ p {
 } */
 
 body {
-  /* font-family: 'Moon Dance', cursive; */
-  font-family: 'Explora', cursive;
+  font-family: 'Moon Dance', cursive;
+  /* font-family: 'Explora', cursive; */
   /* font-weight: 600; */
 }
 
