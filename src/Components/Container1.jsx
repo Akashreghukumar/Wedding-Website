@@ -1,8 +1,8 @@
 import React from 'react';
 // import './style.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Button, Container, Row, Col } from 'react-bootstrap';
-import { con1image, img2 } from './../constants';
+import { Row } from 'react-bootstrap';
+import { img2 } from './../constants';
 export default function Container1() {
   return (
     <div>

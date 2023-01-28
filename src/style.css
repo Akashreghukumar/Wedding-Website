@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Explora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Explora&display=swap'); */
 
 /* h1,
 p {
@@ -11,25 +11,37 @@ p {
 body {
   /* font-family: Brush Script MT, Brush Script Std, cursive; */
   /* font-family: 'Moon Dance', cursive; */
-  font-family: 'Explora', cursive;
+  /* font-family: 'Explora', cursive; */
   /* font-weight: 600; */
 }
 
 p {
-  font-size: 25px;
-  font-weight: 600;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+input {
+  height: 35px;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+}
+
+.background-blue {
+  background-color: lightskyblue;
 }
 
 .centered {
-  font-size: 100px;
+  font-size: 75px;
   font-weight: 600;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  margin-bottom: 5px;
 }
 .centered2 {
-  font-size: 50px;
+  font-size: 30px;
   font-weight: 600;
   position: absolute;
   top: 65%;
